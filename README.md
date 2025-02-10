@@ -16,3 +16,10 @@ This is the official repository for the Integrating With HubSpot I: Foundations 
 
 You can view the custom object list here:  
 [View Custom Object](https://app.hubspot.com/contacts/241951611/objects/2-164648221/views/all/list)
+
+# My HubSpot Practicum Project
+This project is for the **Integrating With HubSpot I: Foundations practicum**.
+
+## Custom Object Link
+[View my custom object here](https://app.hubspot.com/contacts/241951611/objects/2-164648221/views/all/list)
+
